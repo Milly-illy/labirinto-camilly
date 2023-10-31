@@ -1,0 +1,23 @@
+{
+  "name": "labirinto-camilly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node mais.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milly-illy/labirinto-camilly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milly-illy/labirinto-camilly/issues"
+  },
+  "homepage": "https://github.com/Milly-illy/labirinto-camilly#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
